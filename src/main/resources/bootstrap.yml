@@ -1,0 +1,4 @@
+# first step in bootstrap of application to initialize basic framework configuration.
+micronaut:
+  application:
+    name: baseline-micronaut
