@@ -5,3 +5,4 @@ build/
 .idea/
 target/
 config_override/
+/dependency-reduced-pom.xml
