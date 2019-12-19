@@ -1,9 +1,9 @@
 # microservice-baseline for micronaut and kotlin
 
-[![Build Status]()
-[![Quality Gate Status]()
-[![Coverage]()
-[![Technical Debt]()
+[![Build Status](https://jenkins.capra.tv/buildStatus/icon?job=cals-baselines/microservice-baseline-micronaut/master)](https://jenkins.capra.tv/job/cals-baselines/job/microservice-baseline-micronaut/job/master/)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=capraconsulting_microservice-baseline-micronaut&metric=alert_status)](https://sonarcloud.io/dashboard?id=capraconsulting_microservice-baseline-micronaut)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=capraconsulting_microservice-baseline-micronaut&metric=coverage)](https://sonarcloud.io/dashboard?id=capraconsulting_microservice-baseline-micronaut)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=capraconsulting_microservice-baseline-micronaut&metric=sqale_index)](https://sonarcloud.io/dashboard?id=capraconsulting_microservice-baseline-micronaut)
 
 This project serves as a baseline when you wish to begin a new micro service exposing HTTP endpoints.
 
