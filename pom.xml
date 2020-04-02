@@ -192,7 +192,7 @@
                   <annotationProcessorPath>
                     <groupId>io.micronaut.configuration</groupId>
                     <artifactId>micronaut-openapi</artifactId>
-                    <version>1.4.2</version>
+                    <version>1.4.3</version>
                   </annotationProcessorPath>
                   <annotationProcessorPath>
                     <groupId>io.micronaut</groupId>
