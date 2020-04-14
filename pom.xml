@@ -13,7 +13,7 @@
     <exec.mainClass>no.capraconsulting.baseline.micronaut.Application</exec.mainClass>
     <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
     <maven-failsafe-plugin.version>2.22.2</maven-failsafe-plugin.version>
-    <kotlinVersion>1.3.71</kotlinVersion>
+    <kotlinVersion>1.3.72</kotlinVersion>
     <java.version>1.8</java.version>
     <kotlin.compiler.jvmTarget>${jdk.version}</kotlin.compiler.jvmTarget>
   </properties>
