@@ -113,7 +113,7 @@
       <groupId>io.mockk</groupId>
       <artifactId>mockk</artifactId>
       <scope>test</scope>
-      <version>1.10.2</version>
+      <version>1.10.3-jdk8</version>
     </dependency>
   </dependencies>
   <build>
